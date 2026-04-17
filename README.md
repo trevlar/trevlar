@@ -36,6 +36,16 @@
   <img src="https://streak-stats.demolab.com?user=trevlar&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trevlar/trevlar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trevlar/trevlar/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/trevlar/trevlar/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center"><i>⚔️ Natural 20 to anyone who scrolled this far.</i></p>

@@ -9,6 +9,7 @@
 ## 🎲 About Me
 
 - 🏔️ Based in Utah
+- 💼 Software Engineer Team Lead at [Blackthorn Software](https://blackthornsoftware.com) building CrewView
 - 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a system for the Nimble TTRPG
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
 - 🌱 Side quests: tabletop games, tiny tools

@@ -28,10 +28,10 @@
 
 ## 📊 Stats
 
-<p align="center">
+<!-- p align="center">
   <img src="https://github-readme-stats-seven-silk-80.vercel.app/api?username=trevlar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats-seven-silk-80.vercel.app/api/top-langs/?username=trevlar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+</p -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=trevlar&theme=tokyonight&hide_border=true" />

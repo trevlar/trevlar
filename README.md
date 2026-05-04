@@ -11,7 +11,7 @@
 - 🏔️ Based in Utah
 - 💼 Software Engineer Team Lead at [Blackthorn Software](https://blackthornsoftware.com) building [CrewView](https://www.crewview.com)
 - 🦸 Creator of [P&P Ready](https://www.pnpready.com) — a tool for running and playing Prowlers & Paragons
-- 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a system for the Nimble TTRPG
+- 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a Foundry VTT system module for [Nimble RPG](https://www.nimblerpg.com)
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
 - 🌱 Side quests: tabletop games, tiny tools
 

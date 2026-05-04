@@ -13,7 +13,7 @@
 - 🦸 Creator of [P&P Ready](https://www.pnpready.com) — a tool for running and playing Prowlers & Paragons
 - 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a Foundry VTT system module for [Nimble RPG](https://www.nimblerpg.com)
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
-- 🌱 Side quests: tabletop games, tiny tools
+- 🌱 Side quests: tabletop games
 
 ## 🧰 Tech I Reach For
 

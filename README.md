@@ -11,7 +11,7 @@
 - 🏔️ Based in Utah
 - 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a system for the Nimble TTRPG
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
-- 🌱 Side quests: tabletop games, tiny tools, Conway's Game of Life
+- 🌱 Side quests: tabletop games, tiny tools
 
 ## 🧰 Tech I Reach For
 
@@ -28,8 +28,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trevlar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevlar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-seven-silk-80.vercel.app/api?username=trevlar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-seven-silk-80.vercel.app/api/top-langs/?username=trevlar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">

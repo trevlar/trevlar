@@ -13,7 +13,10 @@
 - 🦸 Creator of [P&P Ready](https://www.pnpready.com) — a tool for running and playing Prowlers & Paragons
 - 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a Foundry VTT system module for [Nimble RPG](https://www.nimblerpg.com)
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
-- 🌱 Side quests: tabletop games
+- 🎲 TTRPGs: [Nimble](https://www.nimblerpg.com), Blades in the Dark, Prowlers & Paragons
+- 🃏 Games: Lords of Waterdeep, Spirit Island, Control, Sushi Go
+- 🎮 Video games: Baldur's Gate 3, Kerbal Space Program, Horizon: Forbidden West
+- 🏃 Also into: running and indoor rock climbing
 
 ## 🧰 Tech I Reach For
 

@@ -14,7 +14,7 @@
 - 🧙 Tinkering on [FoundryVTT-Nimble](https://github.com/Nimble-Co/FoundryVTT-Nimble) — a Foundry VTT system module for [Nimble RPG](https://www.nimblerpg.com)
 - 🛠️ Happiest somewhere between Go, TypeScript, and a good dice roll
 - 🎲 TTRPGs: [Nimble](https://www.nimblerpg.com), Blades in the Dark, Prowlers & Paragons
-- 🃏 Games: Lords of Waterdeep, Spirit Island, Control, Sushi Go
+- 🃏 Games: Lords of Waterdeep, Spirit Island
 - 🎮 Video games: Baldur's Gate 3, Kerbal Space Program, Horizon: Forbidden West
 - 🏃 Also into: running and indoor rock climbing
 
